@@ -1,0 +1,36 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+/* body{
+    background-color: rgba(245, 226, 202, 0.616);
+} */
+
+
+
+#titolo{
+    color:whitesmoke;
+}
+
+
+.bg-blog{
+    background-image: url(./img/vegetables-1620558_1280.jpg);
+    background-size: cover;
+    text-align: center;
+    height: 540px;
+    /* background-position: sticky; */
+    
+}
+
+.bg-titolo{
+    background-color: rgba(136, 85, 85, 0.747);
+    width: 1190px;
+   
+}
+/* 
+.height-img1{
+    height: 20px;
+} */
+

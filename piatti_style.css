@@ -1,0 +1,13 @@
+*{
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+body{
+    background-color: rgba(245, 226, 202, 0.616);
+}
+
+img:hover {
+    opacity: 0.8;
+  }
